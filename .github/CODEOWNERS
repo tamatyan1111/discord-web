@@ -1,0 +1,6 @@
+# CI/CD・Dependabotの設定を変えるPRはオーナーのレビューを必須にする
+/.github/ @tamatyan1111
+
+# ライセンスの変更と、秘密ファイルの除外設定はオーナーが判断する
+/LICENSE @tamatyan1111
+/.gitignore @tamatyan1111
